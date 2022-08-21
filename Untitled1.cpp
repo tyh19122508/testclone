@@ -14,5 +14,6 @@
     printf("kj");
     printf("AKJDK");
     printf("check");
+  printf("Check2");
  	return 0;	
 }
