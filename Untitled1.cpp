@@ -13,5 +13,6 @@
     printf("z");
     printf("kj");
     printf("AKJDK");
+    printf("check");
  	return 0;	
 }
