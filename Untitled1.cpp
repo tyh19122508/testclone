@@ -12,5 +12,6 @@
     printf("%d",sum);
     printf("z");
     printf("kj");
+    printf("i love you");
  	return 0;	
 }
