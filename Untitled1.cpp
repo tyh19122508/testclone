@@ -10,5 +10,7 @@
  	    sum=sum + i*(i+1);
     }
     printf("%d",sum);
+    printf("z");
+    printf("kj");
  	return 0;	
 }
