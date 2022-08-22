@@ -16,5 +16,6 @@
     printf("check");
     pritnf("now");
     printf("road to ");
+  printf("Ninja");
  	return 0;	
 }
