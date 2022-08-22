@@ -18,5 +18,6 @@
     printf("check3");
     printf("check5");
     printf("check 4");
+  prinf("chevk42");
  	return 0;	
 }
