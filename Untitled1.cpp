@@ -19,8 +19,10 @@
     printf("check5");
     printf("check 4");
   prinf("chevk");
+
   printf("CHECK5");
   printf("nine");
   printf("x");
+  printf("y");
  	return 0;	
 }
